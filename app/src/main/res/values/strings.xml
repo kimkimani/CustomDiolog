@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomDiolog</string>
+    <string name="popup_text">Conratulations you have unlocked your first ticked Rewarded. you can start to reedem to enjoy more </string>
+    <string name="popup_tittlet">your Reward id ready</string>
+</resources>
